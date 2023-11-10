@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c8c4c15ded82713a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87a3102f97b0ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd45fccf0557a5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刷题/每日题目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "939ec89d0f746c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股/C++八股/01-02-01-memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fc85cfba10f80e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "80497f23ef7ccc08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2f2000097fbc25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b1ed743ccffff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "值传递",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d591a43066f4310",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "c80f213d1c1ce8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "394d12e4d6164108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3326403e07c3640d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "八股/C++八股/01-02-01-memory.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "830e8ecccb616e60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "八股/C++八股/01-02-01-memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf0c2360e088231c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c4ebd1223797db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股/C++八股/01-02-01-memory.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "939ec89d0f746c04",
+  "lastOpenFiles": [
+    "八股/C++八股/01-01-01-basic.md",
+    "203.移除链表元素.md",
+    "刷题/每日题目.md",
+    "刷题/27. 移除元素.md",
+    "刷题/59.螺旋矩阵II.md",
+    "刷题/209.长度最小的子数组.md",
+    "刷题/704. 二分查找.md",
+    "刷题/977.有序数组的平方.md",
+    "日记/日记.md",
+    "面试/11.15-字节-后端开发-日常实习-一面.md",
+    "面试/11.17-上海人工智能实验室-存储开发-日常实习-一面.md",
+    "README.md.md",
+    "八股/C++八股/02-04-os.md",
+    "八股/C++八股/02-03-os.md",
+    "八股/C++八股/02-02-os.md",
+    "八股/C++八股/02-01-os.md",
+    "八股/C++八股/01-04-02-STL.md",
+    "八股/C++八股/01-05-02-other.md",
+    "八股/C++八股/01-04-01-STL.md",
+    "八股/C++八股/01-03-01-C++11.md",
+    "八股/C++八股/01-01-07-basic.md",
+    "八股/C++八股/01-02-01-memory.md",
+    "八股/C++八股/01-01-05-basic.md",
+    "八股/C++八股/01-01-03-basic.md",
+    "八股/C++八股/01-01-02-basic.md",
+    "八股/C++面试问题.md",
+    "八股/音视频八股/protocol/RTCP-rfc1889.txt.pdf",
+    "面经",
+    "面试",
+    "八股/音视频八股/音视频流媒体开发知识归纳导图.png",
+    "八股/大厂八股/12.Zookeeper篇/zk_zab_fast_paxos.png",
+    "八股/大厂八股/12.Zookeeper篇/zk_zab_basic_paxos.png",
+    "八股/大厂八股/12.Zookeeper篇/zk_sync.png",
+    "八股/大厂八股/12.Zookeeper篇/zk_distributed_locker2.png",
+    "八股/大厂八股/12.Zookeeper篇/zk_distributed_locker1.png",
+    "八股/大厂八股/arch.jpg",
+    "八股/大厂八股/sync_link",
+    "八股/大厂八股/contact.jpg",
+    "八股/大厂八股/21.面经",
+    "八股/大厂八股/20.并发篇",
+    "八股/大厂八股/19.安全篇",
+    "八股/大厂八股/18.网络通信篇",
+    "八股/大厂八股/16.CPU篇",
+    "八股/大厂八股/17.磁盘篇",
+    "八股/audio_video_streaming-main/音视频流媒体开发知识归纳导图.png",
+    "八股/interview_internal_reference/12.Zookeeper篇/zk_zab_fast_paxos.png"
+  ]
+}
