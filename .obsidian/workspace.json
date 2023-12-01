@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1260d86be5e73b",
+        "id": "1f45363602d3cac4",
         "type": "tabs",
         "children": [
           {
-            "id": "19ca305f15c48f6a",
+            "id": "ef4ed7d046281e63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日题目.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6281e0f3f23fd77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/每日题目.md",
+                "file": "刷题/235. 二叉搜索树的最近公共祖先.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c3416e742e378e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static_",
+                "query": "原子操作",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题/每日题目.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题/每日题目.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题/每日题目.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,53 +173,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19ca305f15c48f6a",
+  "active": "96c3416e742e378e",
   "lastOpenFiles": [
-    "刷题/18. 四数之和.md",
-    "八股/C++八股/01-01-07-basic.md",
-    "八股/C++问题.md",
-    "八股/知识点.md",
-    "刷题/454.四数相加II.md",
-    "八股/C++八股/01-01-04-basic.md",
-    "八股/C++八股/01-01-02-basic.md",
-    "刷题/15. 三数之和.md",
-    "刷题/每日题目.md",
-    "刷题/面试题 02.07. 链表相交.md",
-    "刷题/977.有序数组的平方.md",
-    "刷题/383. 赎金信.md",
-    "刷题/349. 两个数组的交集.md",
-    "刷题/1. 两数之和.md",
-    "刷题/202. 快乐数.md",
-    "刷题/242.有效的字母异位词.md",
-    "日记/日记.md",
-    "八股/C++八股/01-04-02-STL.md",
-    "八股/C++八股/01-04-01-STL.md",
-    "八股/理解Reactor和Proactor.md",
-    "八股/C++八股/01-01-01-basic.md",
-    "八股/C++八股/01-01-03-basic.md",
+    "日记.md",
+    "每日题目.md",
+    "面试/11.17-上海人工智能实验室-存储开发-一面.md",
+    "面试/11.21-紫竹-英特尔-c车载安卓可信执行环境-电话面.md",
+    "面试/11.22-紫竹-英特尔-底层硬件加速-电话面.md",
+    "面试/11.28-英特尔-安卓TEE置信运行环境开发.md",
+    "面试/11.28-英特尔-底层优化.md",
+    "面试/11.23-漕河泾-FunPlus-云原生开发-一面.md",
+    "面试/11.21-张江-鹏武电子-c井半导体嵌入式开发-电话面.md",
+    "面试/11.21-临港-特斯拉-c++嵌入式-hr.md",
+    "面试/11.21-浦东-万家基金-c++量化策略落地-hr.md",
+    "面试/11.15-字节-后端开发-一面.md",
+    "面试/❌11.22-徐汇-依图-c++开发-一面.md",
+    "面试/❌11.21-字节-后端开发-二面.md",
     "README.md",
+    "刷题/235. 二叉搜索树的最近公共祖先.md",
+    "刷题/236. 二叉树的最近公共祖先.md",
+    "刷题/501.二叉搜索树中的众数.md",
+    "刷题/530.二叉搜索树的最小绝对差.md",
+    "刷题/98.验证二叉搜索树.md",
+    "刷题/700.二叉搜索树中的搜索.md",
+    "刷题/24. 两两交换链表中的节点.md",
+    "刷题/1. 两数之和.md",
+    "刷题/3. 无重复字符的最长子串.md",
+    "刷题/704. 二分查找.md",
+    "刷题/1047. 删除字符串中的所有相邻重复项.md",
     "PDF/代码随想录项目精讲系列-webserver.pdf",
-    "八股/C++八股/03-05-net.md",
-    "八股/C++八股/03-04-net.md",
-    "八股/C++八股/03-03-net.md",
-    "八股/音视频八股/protocol/RTCP-rfc1889.txt.pdf",
-    "面经",
-    "面试",
+    "八股/其他",
+    "八股/数据库",
+    "asset/动规导图.png",
+    "asset/最短无序子数组.png",
+    "asset",
+    "asset/二叉树导图.png",
+    "刷题/acm/problems",
+    "刷题/acm",
+    "刷题/kamacoder-solutions-main/problems",
+    "刷题/kamacoder-solutions-main",
+    "八股/操作系统",
+    "八股/计算机网络",
     "八股/音视频八股/音视频流媒体开发知识归纳导图.png",
     "八股/大厂八股/12.Zookeeper篇/zk_zab_fast_paxos.png",
     "八股/大厂八股/12.Zookeeper篇/zk_zab_basic_paxos.png",
     "八股/大厂八股/12.Zookeeper篇/zk_sync.png",
     "八股/大厂八股/12.Zookeeper篇/zk_distributed_locker2.png",
     "八股/大厂八股/12.Zookeeper篇/zk_distributed_locker1.png",
-    "八股/大厂八股/arch.jpg",
-    "八股/大厂八股/sync_link",
-    "八股/大厂八股/contact.jpg",
-    "八股/大厂八股/21.面经",
-    "八股/大厂八股/20.并发篇",
-    "八股/大厂八股/19.安全篇",
-    "八股/大厂八股/18.网络通信篇",
-    "八股/大厂八股/16.CPU篇",
-    "八股/audio_video_streaming-main/音视频流媒体开发知识归纳导图.png",
-    "八股/interview_internal_reference/12.Zookeeper篇/zk_zab_fast_paxos.png"
+    "八股/大厂八股/arch.jpg"
   ]
 }
