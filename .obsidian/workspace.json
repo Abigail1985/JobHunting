@@ -22,67 +22,31 @@
             }
           },
           {
-            "id": "ced9b2a1f7ca22e9",
+            "id": "78323a8898edd812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/二叉树.md",
+                "file": "刷题/216.组合总和III.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "beea1eb25c9c3b3d",
+            "id": "60479c7e50e32eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/108.将有序数组转换为二叉搜索树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ff1b52f8802edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刷题/450.删除二叉搜索树中的节点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a3889f2e713b1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刷题/108.将有序数组转换为二叉搜索树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "917e18a33c90dd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刷题/669. 修剪二叉搜索树.md",
+                "file": "日记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题/二叉树.md",
+                "file": "日记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题/二叉树.md",
+                "file": "日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题/二叉树.md"
+                "file": "日记.md"
               }
             }
           }
@@ -209,35 +173,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ced9b2a1f7ca22e9",
+  "active": "60479c7e50e32eaa",
   "lastOpenFiles": [
+    "每日题目.md",
+    "刷题/17.电话号码的字母组合.md",
+    "刷题/216.组合总和III.md",
+    "6.824/docs/lab1.md",
+    "6.824/docs/lab3.md",
+    "6.824/docs/lab2.md",
+    "6.824/docs/lab4.md",
+    "6.824/Lab1-MapReduce.md",
+    "6.824/go 相对路径问题.md",
+    "6.824/docs",
+    "6.824/Lab2-RAFT.md",
+    "6.824",
+    "PDF/数据密集型应用系统设计.pdf",
+    "PDF/代码随想录项目精讲系列-webserver.pdf",
+    "日记.md",
+    "刷题/669. 修剪二叉搜索树.md",
+    "刷题/二叉树.md",
     "刷题/动态规划.md",
     "刷题/层序遍历.md",
-    "刷题/二叉树.md",
     "刷题/二叉树迭代遍历.md",
     "刷题/面试题 02.07. 链表相交.md",
     "刷题/卡码网：54.替换数字.md",
     "刷题/二叉树统一迭代.md",
     "刷题/二叉树递归遍历.md",
-    "每日题目.md",
     "刷题/77.组合.md",
     "刷题/108.将有序数组转换为二叉搜索树.md",
-    "刷题/669. 修剪二叉搜索树.md",
     "刷题/450.删除二叉搜索树中的节点.md",
     "刷题/538.把二叉搜索树转换为累加树.md",
     "刷题/701.二叉搜索树中的插入操作.md",
     "README.md",
-    "日记.md",
-    "面试/11.17-上海人工智能实验室-存储开发-一面.md",
-    "面试/11.21-紫竹-英特尔-c车载安卓可信执行环境-电话面.md",
-    "面试/11.22-紫竹-英特尔-底层硬件加速-电话面.md",
-    "面试/11.28-英特尔-安卓TEE置信运行环境开发.md",
-    "面试/11.28-英特尔-底层优化.md",
-    "面试/11.23-漕河泾-FunPlus-云原生开发-一面.md",
-    "面试/11.21-张江-鹏武电子-c井半导体嵌入式开发-电话面.md",
-    "面试/11.21-临港-特斯拉-c++嵌入式-hr.md",
-    "面试/11.21-浦东-万家基金-c++量化策略落地-hr.md",
-    "PDF/代码随想录项目精讲系列-webserver.pdf",
     "八股/其他",
     "八股/数据库",
     "asset/动规导图.png",
@@ -247,9 +214,6 @@
     "刷题/acm/problems",
     "刷题/acm",
     "刷题/kamacoder-solutions-main/problems",
-    "刷题/kamacoder-solutions-main",
-    "八股/操作系统",
-    "八股/计算机网络",
     "八股/音视频八股/音视频流媒体开发知识归纳导图.png",
     "八股/大厂八股/12.Zookeeper篇/zk_zab_fast_paxos.png",
     "八股/大厂八股/12.Zookeeper篇/zk_zab_basic_paxos.png",
