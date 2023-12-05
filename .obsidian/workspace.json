@@ -22,19 +22,33 @@
             }
           },
           {
-            "id": "78323a8898edd812",
+            "id": "f1765d0c96061736",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1fc6d17e8567a2aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/216.组合总和III.md",
+                "file": "78.子集.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60479c7e50e32eaa",
+            "id": "875e4bd8850e75b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32bd172a94e6e24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刷题/40.组合总和II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原子操作",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,38 +199,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "60479c7e50e32eaa",
+  "active": "875e4bd8850e75b2",
   "lastOpenFiles": [
+    "README.md",
+    "90.子集II.md",
+    "刷题/40.组合总和II.md",
     "每日题目.md",
-    "刷题/17.电话号码的字母组合.md",
+    "78.子集.md",
+    "日记.md",
+    "1114.按序打印.md",
+    "面试/12.5-字节-国际化内容安全平台后端.md",
+    "93.复原IP地址.md",
+    "面试/11.23-漕河泾-FunPlus-云原生开发-一面.md",
+    "刷题/39. 组合总和.md",
+    "刷题/131.分割回文串.md",
     "刷题/216.组合总和III.md",
-    "6.824/docs/lab1.md",
-    "6.824/docs/lab3.md",
-    "6.824/docs/lab2.md",
-    "6.824/docs/lab4.md",
+    "刷题/acm/problems/0014.句子缩写.md",
+    "刷题/acm/problems/0008.摆平积木.md",
+    "刷题/acm/problems/0009.奇怪的信.md",
+    "刷题/acm/problems/0007.平均绩点.md",
+    "刷题/acm/problems/0017.出栈合法性.md",
+    "刷题/acm/problems/0016.位置互换.md",
+    "刷题/acm/problems/0013.镂空三角形.md",
+    "刷题/acm/problems/0010.运营商活动.md",
+    "刷题/acm/problems/0004.A+B问题IV.md",
+    "刷题/acm/problems/0003.A+B问题III.md",
+    "刷题/acm/problems/0002.A+B问题II.md",
+    "刷题/acm/problems/0001.A+B问题I.md",
     "6.824/Lab1-MapReduce.md",
-    "6.824/go 相对路径问题.md",
     "6.824/docs",
-    "6.824/Lab2-RAFT.md",
     "6.824",
     "PDF/数据密集型应用系统设计.pdf",
     "PDF/代码随想录项目精讲系列-webserver.pdf",
-    "日记.md",
-    "刷题/669. 修剪二叉搜索树.md",
-    "刷题/二叉树.md",
-    "刷题/动态规划.md",
-    "刷题/层序遍历.md",
-    "刷题/二叉树迭代遍历.md",
-    "刷题/面试题 02.07. 链表相交.md",
-    "刷题/卡码网：54.替换数字.md",
-    "刷题/二叉树统一迭代.md",
-    "刷题/二叉树递归遍历.md",
-    "刷题/77.组合.md",
-    "刷题/108.将有序数组转换为二叉搜索树.md",
-    "刷题/450.删除二叉搜索树中的节点.md",
-    "刷题/538.把二叉搜索树转换为累加树.md",
-    "刷题/701.二叉搜索树中的插入操作.md",
-    "README.md",
     "八股/其他",
     "八股/数据库",
     "asset/动规导图.png",

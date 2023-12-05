@@ -9,6 +9,15 @@
         - [laziest](#laziest)
 
 <!-- /TOC -->
+### Lab1 MapReduce
+
+第一个lab属于热身性质的Lab，你可以借这个Lab熟悉Go的写法，后面的三个Lab不会用到比第一个Lab更多的语法或者特性，要坚信编程语言绝不是做lab的障碍。上手之前，建议通读论文的前四节，并且彻底搞懂Fig 1想要表达什么。6.824的MapReduce中，你可以认为每个文本文件就对应Fig 1中的一个'split'，每个接收到Map任务的Worker，需要读这个文件并将所有单词分别根据哈希函数`ihash(key) % NReduce`映射到NReduce个中间文件去，Fig 1中已经很直观地画出来了。总共会有`num(split)*NReduce`个中间文件.这些中间文件存储的是类似`(abc, 1)`这样的kv对。在Reduce阶段，每个Worker需要处理所有split组对应编号的中间文件，统计词频再输出到output文件。举个例子，比如说我现在有3个文本文件需要处理，`NReduce = 2`, 那么Map阶段要求出中间文件`tmp-0-0, tmp-0-1, tmp-1-0, tmp-1-1, tmp-2-0, tmp-2-1`, Reduce阶段，需要有两个worker分别处理`tmp-0-0, tmp-1-0, tmp-2-0`以及`tmp-0-1, tmp-1-1, tmp-2-1`这些中间文件。中间数字表示文本文件编号，最后一个数字范围`[0,NReduce)`. 为了能从log更好辨认worker，我选择让coordinator为worker按顺序编号，如果让worker自带随机数编号实现会更简单一些。
+
+### 小小的建议
+
+1. 一把大锁保平安。Coordinator处理来自Worker的请求时，Handler直接上一把大锁，请求一个接一个处理。这样Coordinator维护的状态就不可能出现数据竞争，当然咯，这样的话并发性能拉是拉了点。
+2. lab建议将10s内无反应的worker视作dead，注意此时需要回收这个worker的任务。Worker可以定时发送心跳告知Coordinator它没魂归西天，心跳和请求可以合并作一个Request，用额外的参数告知是request还是heartbeat即可。Coordinator在分配任务之间检查一下最后访问时间即可。
+3. 仔细阅读lab给的Hints，条条有用
 
 ## 思路
 
